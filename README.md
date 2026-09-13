@@ -14,7 +14,7 @@ To build this RC car, you will need the following hardware components, power sup
 
 * **1x L298N Dual H-Bridge Motor Driver Board**
 
-* **2x DC Gear Motors with Wheels** (TT Motors, 3V–6V ratio 1:48)
+* **4x DC Gear Motors with Wheels** (TT Motors, 3V–6V ratio 1:48)
 
 ### 2. Sensors & Indicators
 
